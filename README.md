@@ -5,9 +5,13 @@
 
 ### 🧠 About Me  
 🎓 **B.Tech in Computer Science & Business Systems** – Medi-Caps University, Indore (2022–2026)  
+
 💡 Passionate about Backend Development, AI Workflows, Automation & NLP systems
+
 🧩 I love building end-to-end, production-ready backend architectures
+
 🌱 Currently exploring **AI Automation** + **Cloud Services** +**scalable System Design**  
+
 🤝 Open to backend, AI, and full-stack engineering opportunities  
 
 ---
