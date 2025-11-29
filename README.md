@@ -39,13 +39,13 @@
 
 #### 🔧 [Log Classification System](https://github.com/Adityamangal101/Log-Classifier.git)  
 🛠  A production-grade Hybrid NLP Log Classification System.  
-⚡ Built with FastAPI + Streamlit + Docker
+⚡ Built with FastAPI + Streamlit + Docker.
 📌 Real-time log categorization dashboard.  
 
 #### 🤖 [Aadi’s Eatery – AI Food Ordering Chatbot](https://github.com/Adityamangal101/Food_Rest_chatbot.git)  
-🤖 Conversational ordering system powered by Dialogflow and FastAPI
-⚡ Real-time ordering using webhook integration
-📦 Full-stack architecture with MySQL backend, HTML/CSS/JS frontend
+🤖 Conversational ordering system powered by Dialogflow and FastAPI.
+⚡ Real-time ordering using webhook integration.
+📦 Full-stack architecture with MySQL backend, HTML/CSS/JS frontend.
 
 
 
